@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmmdmadhanip" alt="mhmmdmadhanip" /></a> </p>
 
-- I'm currently learning **NestJS and NextJS**
-
-- How to reach me **mhmmdmadhani22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madanss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madanss_" height="30" width="40" /></a>
