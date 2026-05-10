@@ -89,12 +89,7 @@ Building things from Jakarta 🇮🇩
 ### 📊 GitHub stats
 
 <div align="center">
-
-<a href="https://github.com/mhmmdmadhanip">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmmdmadhanip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdmadhanip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
+  
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=mhmmdmadhanip&theme=tokyonight&hide_border=true" />
 </a>
